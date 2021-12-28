@@ -142,7 +142,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="https://github.com/rozari0/NezukoBot",
+                url="https://github.com/mysaraswati/NezukoBot",
             ),
         ],
         [
